@@ -1,0 +1,11 @@
+{
+  "name": "cordova-plugin-mock",
+  "version": "0.0.1",
+  "description": "A simple Javascript library to mock Cordova Plugins",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: Still working on tests creating \" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
